@@ -11,7 +11,7 @@
   <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabi-Angular" height="30" width="40" src="https://skills.thijs.gg/icons?i=scss">
+  <img align="center" alt="Gabi-Scss" height="30" width="40" src="https://skills.thijs.gg/icons?i=scss">
   <img align="center" alt="Gabi-Angular" height="30" width="40" src="https://skills.thijs.gg/icons?i=angular">
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
