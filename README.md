@@ -1,4 +1,4 @@
-## Hello! I'm Gabriela Oda and I'm a Full-Stack Developer ✌🏻💻
+## Hey! I'm Gabriela Oda and I'm a Full-Stack Developer ✌🏻💻
  
 <br>
 <div>
